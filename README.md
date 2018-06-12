@@ -1,0 +1,20 @@
+# SpringBoot
+springboot用法和与各种框架、组件等结合使用，
+包括
+springboot的注解分析
+路径分析
+取得内置对象
+项目打包
+配置环境属性
+读取资源文件
+Bean配置
+模板渲染
+基于yml的多profile配置、
+基于properties的多profile、
+添加数据验证、
+配置错误页、
+全局异常处理、
+配置Tomcat运行、
+配置https访问路径、
+信息显示、
+内置对象、显示对象信息、文件上传、使用文件服务器、拦截器、配置druid数据库连接池、整合MyBatis框架、事务控制、Druid监控、整合ActiveMQ、整合RabbitMQ、整合kafka、邮件发送、定时调度、Actuator监控、整合Redis数据库、整合Restfui框架、整合Shiro
